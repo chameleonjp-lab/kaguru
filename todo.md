@@ -135,6 +135,6 @@
 
 # GitHub移行先の訂正
 
-- [ ] chameleonjp-lab/kaguruの既存履歴とファイル構成を確認する。
-- [ ] 現在のGRAIN LABプロジェクト一式をkaguruのmainブランチへ反映する。
-- [ ] ローカルとkaguruのファイル構成・最新コミットを照合する。
+- [x] chameleonjp-lab/kaguruの既存履歴とファイル構成を確認する。
+- [x] 現在のGRAIN LABプロジェクト一式をkaguruのmainブランチへ反映する。
+- [x] ローカルとkaguruのファイル構成・最新コミットを照合する。
